@@ -1,8 +1,9 @@
-( Se brasil tem um pib de 34000 , uma densidade populacional de 20000 e pontosd e turisticos de 323000  > e a Argentina tem um pib de 23000 e uma densidade populacional de 114000 e pontos turisticos 40000 )
+ ( Se brasil tem uma area de 9 878 000 e um  pib de 34000 , uma densidade populacional de 20000 e pontosd e turisticos de 323000  > e a Argentina tem uma area de 2 897 000 e um pib de 23000 e uma densidade populacional de 114000 e pontos turisticos 40000 )
 
 Printf("BR34000 > 20000./n") {
 printf("BR2000 < 114000./n"){
 printf("BR323000>40000./n"){
+printf("BR9878000<2897000./n"){
 else 
 ("A argentina ganha do brasil./n"){
 
